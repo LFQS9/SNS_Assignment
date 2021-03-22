@@ -1,5 +1,5 @@
 # SNS_Assignment
-This includes codes for SNS assignment.
+This repo includes codes for my SNS assignment.
 
 Note:
 If you cannot view .ipynb file, you can copy its url and open it in https://nbviewer.jupyter.org/. This should work!
